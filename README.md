@@ -1,4 +1,4 @@
-## Beginner Edition Spring Webflux using Flux and Mono in IntelliJ
+## CRUD Operations in Spring Webflux using Flux and Mono in IntelliJ
 This consists of an Application to perform all CRUD operation in Spring WebFlux in IntelliJ with PostgreSQL database. (Reactive Programming).
 
 ### Example 8
